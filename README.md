@@ -8,6 +8,7 @@
 - 💻 Desarrolladora Frontend | Frontend Developer |
 - 📚 Consdiero que la disciplina y el amor al conocimiento hacen realidad nuestras metas y sueños
 - 🌐 Conocimiento en tecnologías como HTML | CSS |JavaScript | Node.js | Git | Desarrollo Web
+
 -🚀 Apasionado por el desarrollo de software y la creación de soluciones innovadoras.
 
 -📊 Familiarizado con la metodología ágil de Scrum.
