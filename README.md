@@ -9,6 +9,7 @@
 - 📚 Considero que la disciplina y el amor al conocimiento hacen realidad nuestras metas y sueños
   Tecnologías
 - :computer: Techs:
+  
  ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
