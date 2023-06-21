@@ -7,10 +7,13 @@
 
 - 💻 Desarrolladora Frontend | Frontend Developer |
 - 📚 Considero que la disciplina y el amor al conocimiento hacen realidad nuestras metas y sueños
-- 🌐 Conocimiento en tecnologías como HTML | CSS |JavaScript | Node.js | Git | React |Desarrollo Web
+  - :books: I’m currently learning C, Typescript, Node.js, React and React Native.
+- :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
+- :pushpin: Interests: UX, UI Design, Video Editing, Motion Graphics.
+
 - 🚀 Apasionado por el desarrollo de software y la creación de soluciones innovadoras.
 - 📊 Familiarizado con la metodología ágil de Scrum.
 
-- 📫 Contáctame  [Linkedin](https://www.linkedin.com/in/leidy-su%C3%A1rez-miranda/) [Gmail]leidysuarez55@gmail.com)
+- 📫 Contáctame  [Gmail](leidysuarez55@gmail.com)
 
 ⭐️ De [lady9696](https://github.com/Lady9696)
