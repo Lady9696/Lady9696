@@ -17,6 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Jest](https://www.redbubble.com/es/i/lienzo/Jest-Javascript-Testing-Logotipo-de-hipstuff/27351965.5Y5V7)
 
 
 - 🚀 Apasionado por el desarrollo de software y la creación de soluciones innovadoras.
